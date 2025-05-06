@@ -1,9 +1,8 @@
 name: Handle issues
-on:
-  - issues
+on: issues
 jobs:
   output:
     runs-on: ubuntu-latest
     steps:
-      - name: Output GitHub event payload
+      - name: Output GitHub event details
         run: echo "${{ toJSON(github.event) }}"
