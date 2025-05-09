@@ -99,3 +99,7 @@ To add your own workflow:
 3. Commit and push the file to your repository
 
 GitHub will automatically detect and run your workflow based on the defined triggers. 
+
+### Documentation Events that trigger workflows
+
+[GitHub Actions - Events](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows)
