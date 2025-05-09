@@ -55,6 +55,6 @@ jobs:
         with:
           name: dist-files
       - name: Output Contents
-        run: ls -la dist
+        run: ls -la dist-files
       - name: Deploy to Server
         run: echo "Deploying to Server"
