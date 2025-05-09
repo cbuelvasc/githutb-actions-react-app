@@ -4,6 +4,7 @@ import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent';
 
+// MainContent is a component that renders a button and a help area
 describe('MainContent', () => {
   it('should render a button', () => {
     render(<MainContent />);
