@@ -103,3 +103,6 @@ GitHub will automatically detect and run your workflow based on the defined trig
 ### Documentation Events that trigger workflows
 
 [GitHub Actions - Events](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows)
+
+### Upload Artifact Action Link
+[Upload Artifact]{https://github.com/actions/upload-artifact}
