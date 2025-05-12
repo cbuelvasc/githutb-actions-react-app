@@ -106,3 +106,6 @@ GitHub will automatically detect and run your workflow based on the defined trig
 
 ### Upload Artifact Action Link
 [Upload Artifact]{https://github.com/actions/upload-artifact}
+
+### Cache Dependencies
+[Cache](https://github.com/actions/cache)
