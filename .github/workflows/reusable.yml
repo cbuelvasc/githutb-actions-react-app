@@ -29,4 +29,4 @@ jobs:
       - name: Output Infomation
         run: echo "Deploy & Uploading..."
       - name: Set Result Output
-        run: echo "step-result" >> $GITHUB_OUTPUT
+        run: echo "step-result=success" >> $GITHUB_OUTPUT
